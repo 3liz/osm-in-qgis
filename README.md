@@ -1,3 +1,5 @@
+Take a look at https://github.com/charleyglynn/OSM-Shapefile-QGIS-stylesheets for an updated version.
+
 ===========
 osm-in-qgis
 ===========
